@@ -1,0 +1,43 @@
+1-parlim 0 0 200 
+1-parlim 1 -1300 -1000
+1-parlim 2 0 500
+1-parlim 3 0 20
+
+1-range 0 -1500 -1000
+
+1+parlim 0 0 200
+1+parlim 1 600 1400
+1+parlim 2 0 200
+1+parlim 3 0 10
+
+1+range 1 600 1400
+
+2-parlim 0 0 200 
+2-parlim 1 -1200 -400
+2-parlim 2 0 50
+2-parlim 3 0 10
+
+2-range 0 -1200 -400
+
+2+parlim 0 0 200
+2+parlim 1 600 1000
+2+parlim 2 0 200
+2+parlim 3 0 20
+
+2+range 1 400 1000
+
+3-parlim 0 0 500 
+3-parlim 1 -2000 -1000
+3-parlim 2 0 3000
+3-parlim 3 0 100
+
+3-range 0 -2000 -800
+
+3+parlim 0 0 200
+3+parlim 1 1000 2000
+3+parlim 2 0 300
+3+parlim 3 0 20
+
+3+range 1 900 2000
+
+
